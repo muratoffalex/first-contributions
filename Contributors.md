@@ -20,6 +20,7 @@
 - [Prashant Bhat](https://github.com/bhatprashant)
 - [Ollie de Guzman] (https://github.com/roldeguz)
 - [Raj](https://github.com/rajratnpranesh)
+- [Muratov Alexander](https://github.com/muratoffalex)
 - [Priya Mane](https://github.com/pugnator-12)
 - [Jac Thomas](https://github.com/jac0310)
 - [Harsh Jaiswal](https://github.com/harsh253)
